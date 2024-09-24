@@ -1,0 +1,10 @@
+p = struct();
+p.N = N;
+p.r = r;
+p.rho = rho;
+p.d = d;
+p.e = e;
+p.b = b;
+p.w = w;
+p.ts = ts;
+p.uInit = uInit;
